@@ -7,7 +7,7 @@ export default class FirstScreen extends Component {
     return (
       <>
         <FirstChildScreen name="Munkustrap" />
-        <FirstChildScreen name="Spot" />
+        <FirstChildScreen name="Spot 1" />
       </>
     );
   }
